@@ -19,7 +19,7 @@ Go to the project directory
 Install dependencies
 
 ```bash
-  pip install flask numpy pandas scikit-learn
+  pip install flask transformers tensorflow tf-keras sentencepiece 
 ```
 
 Start the server
