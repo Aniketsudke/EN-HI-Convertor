@@ -7,13 +7,13 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/Aniketsudke/Dry-Bean-Classification.git
+  git clone https://github.com/Aniketsudke/EN-HI-Convertor.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd Dry-Bean-Classification
+  cd EN-HI-Convertor
 ```
 
 Install dependencies
